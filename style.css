@@ -8,7 +8,7 @@
     padding: 0;
 }
 
-.fundo {
+.pagina {
     background-image: var(--gradient2);
     height: 100vh;
     color: #FFFFFF;
